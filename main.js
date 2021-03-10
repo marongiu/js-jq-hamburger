@@ -1,7 +1,7 @@
 // Creo una variabile con l'elemento che mi interessa prendere
 
 // Seleziono l'icona hamburger
-var menu = $('.header-right a');
+var menu = $('.header-right a i');
 
 // Con la funzione di JQuery.click seleziono il menu e creando una variabile
 // hamburger che punta al div hamburger-menu
